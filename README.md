@@ -1,4 +1,5 @@
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/faiibi/Music-genre-classification/blob/main/Music-genres-image-thumb.jpg))
+
 
 # Music-genre-classification
  Table of Contents
